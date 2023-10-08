@@ -1,8 +1,12 @@
 ---
 ---
 
-section {
-    max-width:800px;
+@import "{{ site.theme }}";
+
+section #title h1 {
+    color:rgb(233, 85, 31)
 }
 
-@import "{{ site.theme }}";
+section #title p {
+    color:blueviolet
+}
