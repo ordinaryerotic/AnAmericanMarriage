@@ -6,6 +6,8 @@ layout: default
 
 -------
 
+[Age 31](./episodes/31.html)
+
 [Age 36 - incomplete](./epidodes/36.html)
 
 [Age 37](./episodes/37.html)
